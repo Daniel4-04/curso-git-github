@@ -37,3 +37,4 @@ Créditos:
 
 Licencia:
 - MIT (ver [LICENSE](LICENSE)).
+CI: workflow básico activo.
